@@ -1,0 +1,12 @@
+{
+  "name": "simple-chat-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/Andyt-Nguyen/simple-chat-app.git",
+  "author": "Andrew Ty Nguyen <andyt.nguyen123@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.0"
+  }
+}
